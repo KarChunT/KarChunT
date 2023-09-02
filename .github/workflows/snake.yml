@@ -12,6 +12,10 @@ on:
 
 jobs:
   generate:
+    permissions: 
+      pull-requests: write
+      issues: write
+      repository-projects: write
     runs-on: ubuntu-latest
 
     steps:
