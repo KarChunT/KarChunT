@@ -14,6 +14,10 @@
 
 <p align="left">To undertake a challenging role as a DevOps Engineer, applying skills gained from 2+ years of experience developing software for web applications, REST APIs, backend services, architecture, infrastructure, and CI/CD pipeline. Excellent track record in delivering software quality service, receiving many awards and recognitions from other business units.<br><br>Add on skills section<br>- Trivy<br>- Microservices<br>- Service Mesh<br>- Istio<br>- Scrum<br>- REST APIs</p>
 
+<p align="left">
+Now I'm learning Next.JS and working on my own portfolio. Stay tuned!
+</p>
+
 ###
 
 <div align="left">
