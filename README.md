@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">#8 Kubestronaut in Malaysia, the world's #1300+🌍<br>#1 Kubestronaut in Penang, Malaysia<br><br>To undertake a challenging role as a Software Engineer, applying skills gained from 4+ years of experience developing software for web applications, REST APIs, backend services, architecture, infrastructure, and CI/CD pipeline. Excellent track record in delivering software quality service, receiving many awards and recognitions from other business units.<br><br>My ambition is to develop a new technology that can revolutionize the world. As part of my motivation to inspire people, this site shares what I have learned and studied previously. It would be the greatest thing I could ever hope for if someone looked at me and said,Thanks to you, I didn't give up 🥳.</p>
+<p align="left">#8 Kubestronaut in Malaysia, the world's #1300+🌍<br>#1 Kubestronaut in Penang, Malaysia<br><br>To undertake a challenging role as a Software Engineer, applying skills gained from 5+ years of experience developing software for web applications, REST APIs, backend services, architecture, infrastructure, and CI/CD pipeline. Excellent track record in delivering software quality service, receiving many awards and recognitions from other business units.<br><br>My ambition is to develop a new technology that can revolutionize the world. As part of my motivation to inspire people, this site shares what I have learned and studied previously. It would be the greatest thing I could ever hope for if someone looked at me and said,Thanks to you, I didn't give up 🥳.</p>
 
 ###
 
